@@ -9,7 +9,7 @@ text-align: center;
 
 const H1 = styled.h1`
 font-family: 'Oswald', sans-serif;
-margin-bottom: 1em;
+margin-bottom: 0.5em;
 ;`
 
 export const Heading = () => {
